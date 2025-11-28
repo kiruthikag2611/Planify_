@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "welcome-background",
+      "description": "A beautiful, warm illustration of a comfortable armchair next to a window, with a stack of books and a cup of coffee.",
+      "imageUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdHVkeSUyMGRlc2t8ZW58MHx8fHwxNzI1NDE5OTgzfDA&ixlib=rb-4.0.3&q=80&w=1920",
+      "imageHint": "study desk"
+    },
+    {
+      "id": "minimalist-desk",
+      "description": "A clean, top-down view of a minimalist wooden desk with a laptop, a notebook, and a small plant.",
+      "imageUrl": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtaW5pbWFsaXN0JTIwZGVza3xlbnwwfHx8fDE3MjE4MzQ5MDR8MA&ixlib=rb-4.0.3&q=80&w=1920",
+      "imageHint": "minimalist desk"
+    },
+    {
+      "id": "abstract-pastel-gradient",
+      "description": "A soft, ambient blend of pastel colors creating a calming and minimal backdrop.",
+      "imageUrl": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwYXN0ZWwlJTIwZ3JhZGllbnR8ZW58MHx8fHwxNzIxODM0OTM3fDA&ixlib=rb-4.0.3&q=80&w=1920",
+      "imageHint": "pastel gradient"
+    },
+    {
+      "id": "login-background",
+      "description": "A vibrant and modern university campus library.",
+      "imageUrl": "https://images.unsplash.com/photo-1564910443496-5fd2d76b47fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx1bml2ZXJzaXR5JTIwbGlicmFyeXxlbnwwfHx8fDE3NjM2MDk3ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "university library"
+    },
+    {
+      "id": "cozy-desk-glow",
+      "description": "A desktop background with an aesthetic cozy study theme, featuring an open book under warm ambient light with a glowing spot above it for a logo. A steaming coffee cup sits on the right, with soft shadows and gentle sparkles rising from the book. The scene uses warm beige, cream, and wooden tones, creating a minimal and calming effect with clean space in the center.",
+      "imageUrl": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvcGVuJTIwYm9vayUyMGdsYXNzJTIwb2YlMjB3YXRlcnxlbnwwfHx8fDE3MjE4MzUwMjF8MA&ixlib=rb-4.0.3&q=80&w=1920",
+      "imageHint": "open book water"
+    },
+    {
+      "id": "blurred-desk-background",
+      "description": "A soft, minimalistic, aesthetic study-desk background with a blurred depth-of-field effect. Include subtle elements like a pair of glasses, a warm latte art coffee cup, faint notebooks, and gentle shadows. Use cool grey and soft beige tones with a smooth gradient. The objects should be lightly out-of-focus to avoid distracting the UI content. The overall mood should feel calm, modern, and professional — perfect for a productivity app welcome screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW5pbWFsJTIwZGVzayUyMGNvZmZlZXxlbnwwfHx8fDE3MjQ2OTkyODV8MA&ixlib=rb-4.0.3&q=80&w=1920",
+      "imageHint": "minimal desk coffee"
+    },
+    {
+      "id": "warm-study-desk",
+      "description": "A seamless, full-app background illustration with a warm, cozy, aesthetic study theme. Shows an open book, a warm coffee cup, and minimal desk elements. Uses a clean, flat-illustration style with warm beige, cream, and light brown tones.",
+      "imageUrl": "https://storage.googleapis.com/aif-stg-images-public/app-p-6608661919-200ba/image_990e4f48-a006-4033-bc4a-9b48b776269b.png",
+      "imageHint": "study desk illustration"
+    },
+    {
+      "id": "cozy-study-ambience",
+      "description": "A cozy desk setup with an open book, a cup of tea, and some plant decorations, creating a warm and inviting study atmosphere.",
+      "imageUrl": "https://i.pinimg.com/736x/ac/e1/c4/ace1c4239a61ab7ffb53e46bf62c5c44.jpg",
+      "imageHint": "study ambient books"
+    },
+    {
+      "id": "tech-background",
+      "description": "Abstract background with blue and purple gradients and geometric shapes.",
+      "imageUrl": "https://images.unsplash.com/photo-1554141528-5e81f4f34b2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMHRlY2glMjBibHVlfGVufDB8fHx8MTcyNTQyMDAwMHww&ixlib=rb-4.0.3&q=80&w=1920",
+      "imageHint": "abstract tech blue"
+    },
+    {
+      "id": "welcome-page-background",
+      "description": "A blurred, cozy workspace background with a cup of coffee, eyeglasses, and a notebook on a table. The colors are cool grey and soft brown, creating a clean and professional look.",
+      "imageUrl": "https://images.unsplash.com/photo-1517495330053-27a7c1325c34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVkeSUyMGRlc2slMjBzdW5yaXNlfGVufDB8fHx8MTcyNzEwNTQxNHww&ixlib=rb-4.0.3&q=80&w=1920",
+      "imageHint": "study desk sunrise"
+    }
+  ]
+}
